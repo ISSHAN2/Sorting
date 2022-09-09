@@ -24,7 +24,7 @@ public class BubbleSort {
         BubbleSort ob = new BubbleSort();
         int arr[] = { 64, 34, 25, 12, 22, 11, 90 };
         ob.bubbleSort(arr);
-        System.out.println("Sorted array");
+        System.out.println("Sorted array E21CSEU0938: ");
         ob.printArray(arr);
     }
 }
